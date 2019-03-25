@@ -1,6 +1,8 @@
 package s1_9;
 
-
+// ik mis commentaar hier
+// wie heet de code geschreven, wanneer ?
+// wat is het doel van dit programma.
 
 import java.util.Arrays;
 
